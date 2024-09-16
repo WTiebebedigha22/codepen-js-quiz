@@ -1,0 +1,13 @@
+Codepen Javascript Challenge : Quiz
+It's week 3 of our JavaScript Classics challenge!
+create a Pen that includes a quiz
+
+Ideas
+Build a classic multiple choice quiz with a series of questions with right and wrong answers, and either a final score or a pass/fail state. Our starter template includes a set of 5 multiple choice questions you can use to get started (see the JS panel for the correct answer to each question). You can use the template questions for your quiz, or quiz users on another subject. Maybe you could go meta with a JavaScript-powered quiz that's 100% about JavaScript.
+Not every quiz is a test of knowledge! You can use the quiz format to make a recommendation, too. Think recipe recommendations based on food preferences, or a vibe matching quiz that helps you figure out what to wear to a party. In these quizzes there are no wrong answers, and there can be many possible outcomes based on the user's answers.
+Turn up the difficulty 🧐 Could you build a quiz that allows for multiple correct answers or write-in answers? Maybe you could add in a time limit, or scramble the order of the questions and answers so it's harder to make a cheat-sheet for your quiz. And of course, you could always just make the quiz questions super hard, like the supposedly impossible-to-beat quiz on JavaScript.
+
+Resources
+Some resources to help you get started with your quiz! Learn how to Build a Quiz App with JavaScript, from Web Dev Simplified on YouTube, which has an example Pen for you to study. Or, read Jakob Klamser's tutorial & code samples for Building a Quiz at dev.to. Then, check out Mert Cukuren slick Quiz App with React + GSAP and Hakim El Hattab's Math Quiz, with confetti when you get everything correct.
+Ready to make some recommendations or personality proclamations? Play around with a few quizzes at Buzzfeed for inspiration. Then, see jan dennison's "What Type of Thing Are You" quiz template, which follows a similar "make a couple of choices and we'll tell you who you are" format. For another example of the recommendation style, check out julbrn's What series should I watch? quiz, which takes in user preferences to make a recommendedation.
+Thinking of making this challenge extra challenging? Add in some time pressure, like in Virtual Wiz' timed Quiz App. Or, make it straight-up difficult, like in Pedro Ondiviela's head-scratching quiz game, Patterns. For examples of tricky quizzes with lots of style, see Paulina Hetman's quartet of front-end dev quizzes: Well aimed? How well do you know CSS selectors?, Colorzzzz, Can You Count Specificity?, and Specificity Wars.
